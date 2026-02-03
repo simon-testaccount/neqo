@@ -32,3 +32,4 @@ jobs:
         with:
           name: QNS PR
           path: artifact/
+          include-hidden-files: true
